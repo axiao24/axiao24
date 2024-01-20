@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m Alex Xiao!
 💬 About Me:
-- 📚 I'm a computer science student interested in software engineering and machine learning 
+- 📚 I'm a passionate computer science student with a strong interest in software engineering and machine learning.
 - 🌱 I’m currently learning more about python to enhance my coding skills and build amazing projects!
-- 👨‍💻 I'm looking for a software engineering internship to gain some hands-on experience
+- 👨‍💻 Eagerly seeking a software engineering internship to gain valuable hands-on experience!
 
 💻 programming languages:
 - Java
